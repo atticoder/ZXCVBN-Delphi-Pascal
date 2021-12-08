@@ -7,3 +7,4 @@ bin/dunitx-results.txt
 *.identcache
 *.res
 *.stat
+bin/dunitx-results.xml
